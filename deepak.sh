@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+first commit<<<<<<< HEAD
 welcom to devops?
 =======
 iHI welcom to devops
