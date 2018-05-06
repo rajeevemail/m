@@ -1,5 +1,5 @@
 first commit<<<<<<< HEAD
-welcom to devops?
+second commit welcom to devops?
 =======
 iHI welcom to devops
 >>>>>>> new commit
