@@ -1,0 +1,18 @@
+sudo apt-get install ntpdate ; sudo ntpdate ntp.ubuntu.com
+
+s3 terraform
+
+create bucket 
+enable versioning 
+demo4 
+aws configure
+supply token region
+cat ~/.aws/credentials in amazon
+vi backend.tf //terraform backend s3 defination 
+
+terraform {
+backend "s3"{
+	bucket ="terraform-state-deepak55"
+	key = "terraform/demo4"
+}
+}
